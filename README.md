@@ -1,4 +1,4 @@
-# hello-world
+# Hello-world
 in this we are creating a typescript file of hello world
 <h1 align="center">Hi 👋, I'm Furqan khan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
