@@ -2,7 +2,8 @@
 in this we are creating a typescript file of hello world
 <h1 align="center">Hi 👋, I'm Furqan khan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="reght" alt ="coding"width="400" src="sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0I_93Ge5wgTwFdhG1RXoGo&ust=1709846466011000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjB8c3I4IQDFQAAAAAdAAAAABAE">
+<img align="reght" alt ="coding"width="400" src="<img sre="imges/imgs.gif">
+<img src="imges/imes 12.jpg">
 <h1 align="center">Hi 👋, I'm Furqan khan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
