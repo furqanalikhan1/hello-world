@@ -2,9 +2,9 @@
 in this we are creating a typescript file of hello world
 <h1 align="center">Hi 👋, I'm Furqan khan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="reght" alt ="coding"width="400" src="<img sre="imges/imgs.gif">
-<img src="imges/imes 12.jpg">
-
+<img align="right"alt="coding"width="400px";url=..\"Downloads\![pexels-cottonbro-studio-5483070](https://github.com/furqanalikhan1/hello-world/assets/160186238/94a409fd-3a50-4536-9e26-ab24999a68c9)
+ src="https://www.pexels.com/photo/man-using-a-laptop-5483070/">
+<img url="E:\css\imges\imsg.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furqanalikhan1&label=Profile%20views&color=0e75b6&style=flat" alt="furqanalikhan1" /> </p>
 
 - 🌱 I’m currently learning **TypeScript. Artificial Intelligence**
