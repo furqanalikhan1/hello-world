@@ -4,8 +4,6 @@ in this we are creating a typescript file of hello world
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="reght" alt ="coding"width="400" src="<img sre="imges/imgs.gif">
 <img src="imges/imes 12.jpg">
-<h1 align="center">Hi 👋, I'm Furqan khan</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furqanalikhan1&label=Profile%20views&color=0e75b6&style=flat" alt="furqanalikhan1" /> </p>
 
